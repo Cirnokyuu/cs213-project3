@@ -2,7 +2,7 @@
 
 The entire my_movies.sql is too large to upload, so I only uploaded the first 50,000 rows.
 
-To get my_movies.sql, you should download , and run the code below:
+To get my_movies.sql, you should download title.basics.tsv.gz and title.ratings.tsv.gz from [imdb](https://datasets.imdbws.com/), and run the code below:
 
 ```sql
 CREATE TABLE movie_id AS
